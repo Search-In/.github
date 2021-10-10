@@ -1,5 +1,8 @@
 ## Hi there 👋
 
+## Currently working on a smart shopping trolley with integrated mobile web-app. Useful in offline Supermarket shopping.
+
+# Just Scan & Go 🛒🛍
 <!--
 
 **Here are some ideas to get you started:**
