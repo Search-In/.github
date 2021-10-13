@@ -1,8 +1,14 @@
-## Hi there 👋
+## Aloha <img src="https://github.com/TheDudeThatCode/TheDudeThatCode/blob/master/Assets/Hi.gif" width="26px">
 
-## Currently working on a smart shopping trolley with integrated mobile web-app. Useful in offline Supermarket shopping.
+### *Search-In*🛒 is a location-based services provider.
+- - - -
+> Building digital solutions like,
+- [x] "smart shopping carts" along with an integrated mobile app for brick-and-mortar retail stores,
+- [x] enhancing user shopping experience in large shopping malls with "AR indoor navigation" and personalized deals, offers with "easy-to-use UI".
+ 
+`Currently working on a smart shopping trolley with integrated mobile web-app. Useful in offline Supermarket shopping.`
 
-# Just Scan & Go 🛒🛍
+## Just Scan & Go 🛒🛍
 <!--
 
 **Here are some ideas to get you started:**
