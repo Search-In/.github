@@ -1,13 +1,31 @@
-## Aloha
+## Aloha!
+<div align = "center">
+ <figure>
+    <img src= "https://avatars.githubusercontent.com/u/78692203?s=200&v=4" alt="SearchIn logo" style="width:10%">
+  </figure>
+  <h1><a href="https://searchintech.in/">SearchIn Tech</a></h1>
+  <h3>AI + IoT for <strong>Smarter Retail Ecosystems</strong></h3>
 
-### *Search-In*🛒 is a location-based services provider.
-[![Website](https://img.shields.io/badge/-Visit%20our%20Website-red?style=flat-square&logo=androidauto&logoColor=white&link=https://www.searchin.co.in/)](https://www.searchin.co.in/)
-- - - -
-> Building digital solutions like,
-- [x] "smart shopping carts" along with an integrated mobile app for brick-and-mortar retail stores,
-- [x] enhancing user shopping experience in large shopping malls with "AR indoor navigation" and personalized deals, offers with "easy-to-use UI".
- 
-`Currently working on a smart shopping trolley with integrated mobile web-app. Useful in offline Supermarket shopping.`
+---
 
-## Just Scan & Go 🛒🛍
+
+</div>
+
+## 🔍 **About Us**  
+We’re a **retail-tech startup** on a mission to transform India’s retail landscape through:  
+✅ **AI-Powered Inventory Management**  
+✅ **IoT-Enabled Customer Insights**  
+✅ **Cost-Optimized Operational Tools**  
+
+---
+
+## 🛠️ **Tech Stack**  
+- **AI/ML**: PyTorch, TensorFlow, OpenCV  
+- **IoT**: Raspberry Pi, LoRaWAN, AWS IoT Core  
+- **Cloud**: GCP, AWS Lambda, Firebase  
+- **Data**: BigQuery, PostgreSQL, Redis  
+- **Frontend**: React Native, Flutter  
+- **Backend**: Node.js, Python, GraphQL  
+
+---
 
